@@ -30,6 +30,6 @@ J | C:True = 0.91
 J | C:False = 0.56
  ```
 
-Example query: (use all lower case)
-►	A=False, B=True, C=True, D=True, E=False
-►	D=True
+Example input queries
+> ►	A=False, B=True, C=True, D=True, E=False
+> ►	D=True

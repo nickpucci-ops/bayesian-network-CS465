@@ -1,6 +1,6 @@
 # bayesian-network-CS465
-Part 1 Calculating joint probabilities from Bayesian Networks
-Part 2 Parameter learning (reference at https://libraries.io/pypi/bnlearn and https://pypi.org/project/pgmpy)  
+- Part 1 Calculating joint probabilities from Bayesian Networks
+- Part 2 Parameter learning (reference at https://libraries.io/pypi/bnlearn and https://pypi.org/project/pgmpy)  
 Goal: Investigate how well the structure can be learned from data.
 ```
 Part 1 Bayesian Network CPT

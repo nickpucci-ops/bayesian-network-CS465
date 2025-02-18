@@ -31,5 +31,5 @@ J | C:False = 0.56
  ```
 
 Example input queries
-> ►	A=False, B=True, C=True, D=True, E=False
-> ►	D=True
+- ►	A=False, B=True, C=True, D=True, E=False
+- ►	D=True
